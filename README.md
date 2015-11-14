@@ -1,2 +1,0 @@
-# Sisdenotas
-sistema de notas 
